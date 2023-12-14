@@ -7,8 +7,6 @@ import joblib
 
 # Page 1: Dashboard
 def dashboard():
-    st.image('Logo.PNG', use_column_width=True)
-
     st.subheader("💡 Abstract:")
 
     inspiration = '''
